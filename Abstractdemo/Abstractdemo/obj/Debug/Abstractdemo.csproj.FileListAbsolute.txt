@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\bin\Debug\Abstractdemo.exe.config
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\bin\Debug\Abstractdemo.exe
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\bin\Debug\Abstractdemo.pdb
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\obj\Debug\Abstractdemo.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\obj\Debug\Abstractdemo.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\obj\Debug\Abstractdemo.exe
+C:\Users\BLTuser.BLT021\source\repos\Abstractdemo\Abstractdemo\obj\Debug\Abstractdemo.pdb

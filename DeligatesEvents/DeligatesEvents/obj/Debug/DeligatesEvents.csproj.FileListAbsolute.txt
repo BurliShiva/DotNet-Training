@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\bin\Debug\DeligatesEvents.exe.config
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\bin\Debug\DeligatesEvents.exe
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\bin\Debug\DeligatesEvents.pdb
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\obj\Debug\DeligatesEvents.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\obj\Debug\DeligatesEvents.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\obj\Debug\DeligatesEvents.exe
+C:\Users\BLTuser.BLT021\source\repos\DeligatesEvents\DeligatesEvents\obj\Debug\DeligatesEvents.pdb
